@@ -1,6 +1,4 @@
 node_modules
 .wwebjs_auth
-Dockerfile
-sql-bot.sql
 .DS_Store
 CHANGELOG.md
