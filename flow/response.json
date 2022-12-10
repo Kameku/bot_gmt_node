@@ -1,0 +1,58 @@
+{
+    "DEFAULT":{
+        "replyMessage":[
+            "*No logramos identificar tu solicitud*\n",
+            "Prueba escribiendo la palabra *asesor* \n",
+            "Te ayudaremos en breve \n"
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_0":{
+        "replyMessage":[
+            "*No logramos identificar tu solicitud*\n",
+            "Prueba escribiendo la palabra *asesor* \n",
+            "Te ayudaremos en breve \n"
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_1":{
+        "replyMessage":[
+            "Hola! Bienvenido a GMT transportes logisticos\n",
+            "Mi nombre es Stefani y te voy ayudar con tu solicitud\n",
+            "Si necesitas ver más info sobre \n",
+            "Verificacion de pagos escribe 1️⃣ \n",
+            "Otra consulta escribe 2️⃣"
+        ],
+        "media":"",
+        "trigger":null
+    },
+    "STEP_2":{
+        "replyMessage":[
+            "En este link pododras consultar por la placa \n de tu vehiculo el estado de tu pago.\n",
+            "https://appgmt.com \n",
+            "Solo debes escribir *la placa de tu vehiculo* \n",
+            "y dar click en *Consultar*"  
+        ],
+        "media":"",
+        "trigger":null
+    },
+    "STEP_3":{
+        "replyMessage":[
+            "Entiendo en breve un asesor te dara respuesta \n",
+            "*Gracias, por favor espera....*"
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_4":{
+        "replyMessage":[
+            "Gracias a ti! \n"
+        ],
+        "media":"",
+        "trigger":null
+    }
+}
+
+
