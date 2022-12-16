@@ -13,6 +13,7 @@
             "Buenos días",
             "buenas tardes",
             "Buenas tardes",
+            "Buenas tardese",
             "buenas noches",
             "Buenas noches",
             "me dieron este número",
@@ -32,7 +33,7 @@
     {
         "keywords":  [
             "asesor",
-            "2"
+            "3"
         ],
         "key": "STEP_3"
     },
@@ -44,5 +45,12 @@
             "vale gracias"
         ],
         "key": "STEP_4"
+    }
+    {
+        "keywords":  [
+            "Certificados",
+            "2"
+        ],
+        "key": "STEP_5"
     }
 ]
