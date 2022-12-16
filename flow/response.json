@@ -23,7 +23,7 @@
             "Mi nombre es Stefani y te voy ayudar con tu solicitud\n",
             "Si necesitas ver más info sobre \n",
             "1️⃣ . *Verificacion de pagos*\n",
-            "2️⃣ . *Certificados de Ingresos o Retenciones*",
+            "2️⃣ . *Certificados de Ingresos o Retenciones*\n",
             "3️⃣ . *Otra consulta*"
         ],
         "media":"",
@@ -31,7 +31,7 @@
     },
     "STEP_2":{
         "replyMessage":[
-            "En este link pododras consultar por la placa \n de tu vehiculo el estado de tu pago.\n",
+            "En este link pododras consultar por la placa\nde tu vehiculo el estado de tu pago.\n",
             "https://appgmt.com \n",
             "Solo debes escribir *la placa de tu vehiculo* \n",
             "y dar click en *Consultar*"  
